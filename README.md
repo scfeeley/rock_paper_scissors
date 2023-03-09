@@ -1,5 +1,6 @@
 # rock_paper_scissors
- live: 
+live: 
+https://scfeeley.github.io/rock_paper_scissors/
 
 Rock paper scissors game that is played against the computer. 
 
